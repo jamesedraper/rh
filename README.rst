@@ -1,6 +1,8 @@
 Robinhood API Library
 ========================
 
+This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the performance of your portfolio, and can also get tax documents, total dividends paid, and more. 
+
 Introduction
 ========================
 This library aims to create functions to interact with the
